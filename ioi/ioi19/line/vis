@@ -1,0 +1,1 @@
+python vis.py tests/$1.in --solution out/$1.out.txt

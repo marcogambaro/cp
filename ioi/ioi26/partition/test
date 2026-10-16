@@ -1,0 +1,1 @@
+g++ -Og -g -fsanitize=address,undefined test.cpp solution.cpp -o sussone && ./sussone
